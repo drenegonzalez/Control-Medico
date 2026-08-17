@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pg8000
+pydantic
+email-validator
+passlib
+bcrypt==4.0.1
+pyjwt
+python-multipart
